@@ -2,30 +2,36 @@
 title: "🏗 for ZCash"
 path: "/buidling-for-zcash"
 date: "2020-01-27"
-coverImage: "../images/zcash-ssd-better.png"
+coverImage: "../images/zcash-cover-image.png"
 author: "Prastut"
 excerpt: "Journey so far in building tools to enable an open and trustworthy financial system that doesn’t put our privacy and freedom at risk."
 tags: ["zcash", "privacy"]
 ---
 
-This blog post documents _the_ why and how BUIDL Labs went about building the ZCash Service Status Dashboard with the support of the ZCash Foundation by answering the following questions:
+This blog post documents behind the scenes of why BUIDL Labs team went about building the [ZCash Service Status Dashboard](https://www.zcashservicestatus.info/) with the support of the [ZCash Foundation](https://www.zfnd.org/) by answering the following questions:
 
 1. How did we come across the ZCash Project?
-2. What inspired us to build for the ZCash Project?
-3. How did we find the niche space in which we can contribute to the community?
+2. What inspired us to build for the ZCash community?
+3. How did we find the niche space in which we can contribute?
 4. How did we go about getting funds for the value we wanted to create for the community?
-5. What processes we followed while building to ensure accountability, clarity and alignment towards the outcome?
-6. What are our long term plans to contribute to the community?
+5. What processes did we follow while building to ensure accountability, clarity, and alignment towards the outcome?
+6. What is our long term plan to contribute to the community?
+
+<br>
 
 ## How did we come across the ZCash Project?
 
-Since early 2019, BUIDL Labs team has been deep diving into the crypto rabbit hole after being inspired by the audacious vision of the pioneers, teams and projects in this industry. Since our team believes in learning by collaboration, we were itching to start contributing our engineering and growth bandwidth to some of these teams and that itch led our small team to the ZCash project.
+Since early 2019, BUIDL Labs team has been deep-diving into the blockchain industry after being inspired by the audacious vision of the pioneer's and their team's building in this space. [Read more on how we aim to contribute.](/about)
+
+Since our team believes in learning by building, we were itching to start contributing our engineering and growth bandwidth to some of these teams, and that itch led our small team to the [ZCash project.](https://z.cash/)
+
+<br>
 
 ## What inspired us to build for the ZCash Project?
 
-We were inspired by ZCash Project's core goal of building an open and trustworthy financial system that doesn’t put our privacy and freedom at risk. In line with the goal, the teams working to steward the mission have built out ZCash - a privacy-protecting, digital currency built on the science of zero knowledge proofs. Like other cryptocurrency networks (e.g. Bitcoin or Ethereum), Zcash allows anyone with a computer and an Internet connection to send and receive scarce tokens that can be used like cash on the Internet.
+We were inspired by their mission of building an open and trustworthy financial system that doesn’t put one's privacy and freedom at risk. The teams working to steward the mission have built out ZCash - a privacy-protecting, digital currency built on the science of zero knowledge proofs. Like other cryptocurrency networks (e.g. Bitcoin or Ethereum), Zcash allows anyone with a computer and an Internet connection to send and receive scarce tokens that can be used like cash on the Internet.
 
-The magic of ZCash technology lies in it's strong privacy guarantee where shielded transactions in Zcash can be fully encrypted on the blockchain, yet still be verified as valid under the network’s consensus rules by using zk-SNARK proofs.
+The alchemy of ZCash technology lies in it's strong privacy guarantee where shielded transactions in Zcash can be fully encrypted on the blockchain, yet still be verified as valid under the network’s consensus rules by using zk-SNARK proofs.
 
 This example illustrates why financial privacy is important and what led to the transition from an itch to a desire to contribute:
 

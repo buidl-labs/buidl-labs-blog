@@ -6,6 +6,7 @@ const cssnano = require("cssnano");
 const postCSSMixins = require("postcss-mixins");
 
 module.exports = {
+  pathPrefix: "/buidl-labs-blog",
   siteMetadata: {
     title: "build labs",
     description: `A simple starter for Gatsby. That's it.`,
@@ -116,5 +117,4 @@ module.exports = {
       },
     },
   ],
-  pathPrefix: "/buidl-labs-blog",
 };
