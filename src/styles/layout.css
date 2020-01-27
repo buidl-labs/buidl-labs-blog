@@ -51,11 +51,11 @@ h6 {
 }
 
 .dark-theme > h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+.dark-theme > h2,
+.dark-theme > h3,
+.dark-theme > h4,
+.dark-theme > h5,
+.dark-theme > h6 {
   color: white;
 }
 
