@@ -8,8 +8,8 @@ const postCSSMixins = require("postcss-mixins");
 module.exports = {
   pathPrefix: "/buidl-labs-blog",
   siteMetadata: {
-    title: "build labs",
-    description: `A simple starter for Gatsby. That's it.`,
+    title: "BUIDL Labs",
+    description: "Building ecosystems and infrastructure for web3.0",
     copyrights: "",
     author: `@prastut`,
     logo: {

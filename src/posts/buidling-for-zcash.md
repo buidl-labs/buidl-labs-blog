@@ -1,5 +1,6 @@
 ---
 title: "🏗 for ZCash"
+description: "Journey so far in building tools to enable an open and trustworthy financial system that doesn’t put our privacy and freedom at risk."
 path: "/buidling-for-zcash"
 date: "2020-01-27"
 coverImage: "../images/zcash-cover-image.png"

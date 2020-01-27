@@ -9,7 +9,9 @@ path: "/about"
 
 Over the course of building several internet businesses and realizing how hard the process of new value creation is, we admire the ambition and audacity of the daring pioneers building in a new technological paradigm, even though we both know on some level that the odds of success are slim 🎢.
 
-> When something is important enough, you do it even if the odds are not in your favor. - Elon Musk
+> When something is important enough, you do it even if the odds are not in your favor.
+>
+> &#150; Elon Musk
 
 Hence we spend significant time and mindspace in helping the daring pioneers improve those odds by contributing with:
 
@@ -24,8 +26,6 @@ We champion, advocate and evangelise + use our expertise in growth to drive adop
 #### 💰 Capital
 
 Usually, money is the least of challenges that exist on the path to success. But when it isn't, we step in.
-
-<br>
 
 ### Closing Note
 

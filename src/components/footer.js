@@ -12,7 +12,7 @@ const Footer = ({ copyrights }) => (
     ) : (
       <>
         <span className="footerCopyrights">
-          © 2020 BUIDL Labs, a portfolio company of{" "}
+          © 2020 BUIDL Labs, a portfolio company of <br />
           <a href="https://www.thevantageproject.com/">The Vantage Project</a>
         </span>
       </>
